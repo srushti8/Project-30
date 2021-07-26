@@ -13,7 +13,7 @@ class Slingshot{
     }
     fly(){
         this.sling.bodyA = null;
-    }
+    }   
     //write code for attach( ) here
     display(){
         if(this.sling.bodyA){
